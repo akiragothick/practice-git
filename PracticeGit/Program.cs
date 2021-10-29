@@ -8,7 +8,7 @@ namespace PracticeGit
 		{
 			Console.WriteLine("Welcome");
 
-			Console.WriteLine("Hello World!");
+			//Console.WriteLine("Hello World!");
 
 			//Console.WriteLine("How are you");
 		}
