@@ -16,11 +16,10 @@ namespace PracticeGit
 
 			//Cambio feature 4
 
-			Console.WriteLine("Akra");
+			Console.WriteLine("Moises");
 
 			Console.WriteLine("Akra feature6");
 
-			//cambio moises
 		}
 	}
 }
