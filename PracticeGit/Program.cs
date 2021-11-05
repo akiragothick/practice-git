@@ -17,6 +17,8 @@ namespace PracticeGit
 			//Cambio feature 4
 
 			Console.WriteLine("Akra");
+
+			Console.WriteLine("Akra feature6");
 		}
 	}
 }
