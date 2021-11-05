@@ -26,7 +26,7 @@ namespace PracticeGit
 
 			//Console.WriteLine("Moises");
 
-			Console.WriteLine("Akra feature6");
+			//Console.WriteLine("Akra feature6");
 
 		}
 	}
